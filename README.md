@@ -1,3 +1,10 @@
+![netflix](https://user-images.githubusercontent.com/72780322/173183235-9378a2e3-28fa-4c23-a77f-10f425c9c262.png)
+
+
+## Check Here
+https://netflix-9300c.firebaseapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
